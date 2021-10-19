@@ -6,7 +6,7 @@ POST http://localhost:4000/api HTTP/1.1
 Content-Type: application/json
 
 {
-  "componente": "razen 5 34000g",
+  "componente": "razen 5 3400g",
   "marca": "razen",
   "precio": 3100
 
